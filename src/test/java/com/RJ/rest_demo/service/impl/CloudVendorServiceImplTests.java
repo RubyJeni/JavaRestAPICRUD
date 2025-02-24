@@ -3,7 +3,6 @@ package com.RJ.rest_demo.service.impl;
 import com.RJ.rest_demo.model.CloudVendor;
 import com.RJ.rest_demo.repository.CloudVendorRepository;
 import com.RJ.rest_demo.service.CloudVendorService;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
